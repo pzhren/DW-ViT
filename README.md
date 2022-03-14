@@ -1,6 +1,6 @@
 # Beyond Fixation: Dynamic Window Visual Transformer
 
-This is official implement of “This is official implement of "CAT: Cross Attention in Vision Transformer”.
+This is official implement of “Beyond Fixation: Dynamic Window Visual Transformer”.
 
 ![image-20220314215046322](https://gitee.com/pzhren/img/raw/master/img/202203142150462.png)
 
